@@ -1,2 +1,1 @@
-code is apply here...
-second line
+Code and all the details can be read here
