@@ -3,5 +3,4 @@ echo "Hello world"
 echo "second line"
 
 ##test##
-
-test add
+#script
